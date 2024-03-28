@@ -39,4 +39,4 @@ $$ Sobre o ecommerce $$
 
 - :boy:  [Arthur Mury](https://github.com/muryarth)
 - :boy:  [Gabriel Pimentel](https://github.com/GabrielnPimentel)
-- :girl:  [nome do membro](link do github do membro)
+- :girl:  [Rafaela Beber](https://github.com/rafxbc)
