@@ -38,4 +38,5 @@ $$ Sobre o ecommerce $$
 ## :fountain_pen: Autores
 
 - :boy:  [Arthur Mury](https://github.com/muryarth)
+- :boy:  [Gabriel Pimentel](https://github.com/GabrielnPimentel)
 - :girl:  [nome do membro](link do github do membro)
