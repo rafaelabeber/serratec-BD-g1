@@ -40,3 +40,4 @@ $$ Sobre o ecommerce $$
 - :boy:  [Arthur Mury](https://github.com/muryarth)
 - :boy:  [Gabriel Pimentel](https://github.com/GabrielnPimentel)
 - :girl:  [Rafaela Beber](https://github.com/rafxbc)
+- :boy:  [Guilherme de Avellar](https://github.com/guimolgado)
