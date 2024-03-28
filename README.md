@@ -1,8 +1,8 @@
 <h1 align="center">
-    ![$$ nome da imagem $$]($$ endereço da imagem $$)
+<img src="./Header/header.png">
 </h1>
 
-## :detective:Índice
+## :detective: Índice
 
 <ul>
     <li>Sobre o Projeto</li>
@@ -11,14 +11,10 @@
     <li>Autores do Projeto</li>
 </ul>
 
-* Sobre o Projeto
-* Tecnologias utilizadas
-* Diagrama
-* Autores do Projeto
-
-## :desktop_computer:Sobre o Projeto
+## :desktop_computer: Sobre o Projeto
 
 $$ Sobre o ecommerce $$
+<p align="center">Trabalho do e-commerce feito pelo Grupo 1 na residência em TIC do Serratec.</p>
 
 ## :hammer_and_wrench: Tecnologias utilizadas
 
@@ -32,13 +28,14 @@ $$ Sobre o ecommerce $$
 <div align="center">
 
   ## Modelo Conceitual
-    <img src="./Diagramas/modelo-conceitual.png">
+<img src="./Diagramas/modelo-conceitual.png">
   
   ## Modelo Lógico
-    ![Modelo Lógico](./Diagramas/modelo-logico.png)
+![Modelo Lógico](./Diagramas/modelo-logico.png)
 
 </div>
-## Autores
 
-- :boy:[$$ nome do membro $$]($$ link do github do membro $$)
-- :girl:[$$ nome do membro $$]($$ link do github do membro $$)
+## :fountain_pen: Autores
+
+- :boy:  [Arthur Mury](https://github.com/muryarth)
+- :girl:  [nome do membro](link do github do membro)
