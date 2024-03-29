@@ -117,3 +117,19 @@ where prod_cd_id = 3;
 
 -- Consulta para verificar o novo valor no estoque
 select * from public.produto;
+
+--Consulta para verificar a previsão de entrega dos pedidos por cliente
+select c.cli_tx_nome, p.ped_dt_previsao_entrega  
+from cliente c 
+inner join pedido p on c.cli_cd_id = c.cli_cd_id
+;
+
+--Consulta para verificar os pedidos e clientes associados
+select p.ped_cd_id, c.cli_tx_nome
+from pedido p
+left join cliente c on p.ped_fk_cli = c.cli_cd_id;
+
+--Consulta para verificar o total de pedidos por cliente
+select c.cli_tx_nome, count(p.ped_cd_id) as total_de_pedidos
+from cliente c, pedido p
+group by c.cli_tx_nome;
