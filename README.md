@@ -42,3 +42,4 @@ $$ Sobre o ecommerce $$
 - :girl:  [Rafaela Beber](https://github.com/rafxbc)
 - :boy:  [Guilherme de Avellar](https://github.com/guimolgado)
 - :boy:  [Matheus Olivieri](https://github.com/MatheusHenrichs)
+- :girl:  [Priscilla Xavier](https://github.com/Priscilla2170)
